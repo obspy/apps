@@ -107,8 +107,8 @@ class MyMainWindow(QtGui.QMainWindow):
         ax.clear()
 
         st = self.st.copy()
-        st.filter("bandpass", {'freqmin': self.low, 'freqmax': self.high,
-                               'zerophase': self.zerophase})
+        st.filter("bandpass", freqmin=self.low, freqmax=self.high,
+                  zerophase=self.zerophase)
         tr = st.select(component="Z")[0]
         ax.plot(tr.data)
         # update matplotlib canvas
