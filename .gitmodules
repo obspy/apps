@@ -1,0 +1,3 @@
+[submodule "obspyck"]
+	path = obspyck
+	url = git://github.com/megies/obspyck.git
