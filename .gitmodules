@@ -1,9 +1,9 @@
 [submodule "obspyck"]
 	path = obspyck
-	url = git://github.com/megies/obspyck.git
+	url = https://github.com/megies/obspyck.git
 [submodule "HtoV-Toolbox"]
 	path = HtoV-Toolbox
-	url = git://github.com/krischer/HtoV-Toolbox.git
+	url = https://github.com/krischer/HtoV-Toolbox.git
 [submodule "SeishubExplorer"]
 	path = SeishubExplorer
-	url = git://github.com/krischer/SeishubExplorer.git
+	url = https://github.com/krischer/SeishubExplorer.git
