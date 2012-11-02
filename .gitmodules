@@ -7,3 +7,6 @@
 [submodule "SeishubExplorer"]
 	path = SeishubExplorer
 	url = https://github.com/krischer/SeishubExplorer.git
+[submodule "obspyDMT"]
+	path = obspyDMT
+	url = git@github.com:kasra-hosseini/obspyDMT.git
